@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineet-sikarwar" alt="vineet-sikarwar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vineetsikar_war" target="blank"><img src="https://img.shields.io/twitter/follow/vineetsikar_war?logo=twitter&style=for-the-badge" alt="vineetsikar_war" /></a> </p>
-
 - 🔭 I’m currently working on [Complaint_project](https://github.com/VINEET-SIKARWAR/Complaint_project)
 
 - 🌱 I’m currently learning **Nextjs framework**
@@ -32,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineet-sikarwar&show_icons=true&locale=en" alt="vineet-sikarwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-sikarwar&" alt="vineet-sikarwar" /></p>
 
